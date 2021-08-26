@@ -4,6 +4,8 @@ using CNN classifier to recognize the color of vehicle
 ## Overall Discription
 as mentioned before in detecting color vehicle using CNN [link](https://github.com/behnoudshafizadeh/vehicle-color-recognition-using-CNN-model), we employ this project on our raspberry Pi Hardware to see the usablity of CNN in real world application.
 
+![our raspberry pi](https://user-images.githubusercontent.com/53394692/130974671-99f06822-b3e3-47fd-8b53-3eed82b0932f.png)
+
 ## Requirements
 as see before, we install requirements to `ALPR` task, for implementing vehicle color detection we need to install `compatible tensorflow` in our raspberry Pi, so for installing, you must download `.whl` files basis on `tensorflow version 2.4` to run deep learning structure, such as below (download these files and then install them) :
 
